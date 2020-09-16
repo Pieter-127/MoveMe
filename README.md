@@ -3,7 +3,7 @@ Learning with motion layout
 
 Really basic animation achieved with motion layout - just a project used as a playground to learn how it works
 
-<img src="https://github.com/Pieter-127/MoveMe/blob/master/app/art/example.gif" width="20%" />
+<img src="https://github.com/Pieter-127/MoveMe/blob/master/app/art/example.gif" width="30%" />
 
 # Summary
 Very simple single transition of an image with motion layout, nothing too fancy, this was just a playground for learning some basics with android motion layout
